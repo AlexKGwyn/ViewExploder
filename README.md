@@ -1,4 +1,4 @@
-![Alt text](/images/icon.png?raw=true "Icon")
+<img align="left" src="/images/icon.png?raw=true">
 # ViewExploder
 
 View Exploder is a library that lets you explode apart arbitrary view hierarchies in 3D to understand how views interact in the z axis, or just for a cool visualization.
