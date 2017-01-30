@@ -7,6 +7,10 @@ The library is also useful to see how views are drawn to the screen and can be u
 
 ![Alt text](/images/exploder2.gif?raw=true "View Exploder In Action")
 
+[![Build Status](https://travis-ci.org/AlexKGwyn/ViewExploder.svg?branch=master)](https://travis-ci.org/AlexKGwyn/ViewExploder)
+[![](https://jitpack.io/v/AlexKGwyn/ViewExploder.svg)](https://jitpack.io/#AlexKGwyn/ViewExploder)
+
+
 # Usage
 To use the View Exploder simply add it to your view heirarchy as a root view to your layout.
 
